@@ -64,5 +64,11 @@
     "name": "Cp",
     "code": "https://paste.c-net.org/PrintoutSalmon",
     "description": "Get Bangla attitude, sad, motivational caption."
+  },
+  {
+    "id": 12,
+    "name": "age",
+    "code": "https://paste.c-net.org/SupplierProjects",
+    "description": "predict age based of name."
   }
 ]
