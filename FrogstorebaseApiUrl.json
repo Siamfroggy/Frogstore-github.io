@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Mg",
+    "code": "https://pastebin.com/raw/rBUdK",
+    "description": "Disturb group members with offensive language."
+  },
+  {
+    "id": 2,
+    "name": "Frog",
+    "code": "https://pastebin.com/raw/fF83dbzW",
+    "description": "Frog chatgpt 4 ai."
+  },
+  {
+    "id": 3,
+    "name": "Math",
+    "code": "https://pastebin.com/raw/GAP9ExBX",
+    "description": "Calculate with this code."
+  },
+  {
+    "id": 4,
+    "name": "Dtime",
+    "code": "https://pastebin.com/raw/pJgBNr7b",
+    "description": "Display the current date and time for a country."
+  },
+  {
+    "id": 5,
+    "name": "Rsong",
+    "code": "https://pastebin.com/raw/FMTt4Ez9",
+    "description": "Get random songs."
+  },
+  {
+    "id": 6,
+    "name": "Bkick",
+    "code": "https://pastebin.com/raw/aBUwxnAz",
+    "description": "Kick users using bad words."
+  },
+  {
+    "id": 7,
+    "name": "rpass",
+    "code": "https://pastebin.com/raw/DH1qeuYR",
+    "description": "Generate a strong random password."
+  },
+  {
+    "id": 8,
+    "name": "Anime",
+    "code": "https://paste.c-net.org/FlakeWaves",
+    "description": "Get Random Anime Image."
+  },
+  {
+    "id": 9,
+    "name": "Cheat",
+    "code": "https://paste.c-net.org/QuiltFlashed",
+    "description": "When the bot is made an admin, it will remove all other admins from the group quickly."
+  },
+  {
+    "id": 10,
+    "name": "Phlink",
+    "code": "https://paste.c-net.org/ZeldaDerrick",
+    "description": "Get random panu video link."
+  },
+  {
+    "id": 11,
+    "name": "Cp",
+    "code": "https://paste.c-net.org/PrintoutSalmon",
+    "description": "Get Bangla attitude, sad, motivational caption."
+  }
+]
