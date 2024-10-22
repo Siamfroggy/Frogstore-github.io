@@ -70,5 +70,11 @@
     "name": "age",
     "code": "https://paste.c-net.org/SupplierProjects",
     "description": "predict age based of name."
+  },
+  {
+    "id": 13,
+    "name": "ip",
+    "code": "https://paste.c-net.org/AdoringSucks",
+    "description": "Get your own IP address\n{pn} @mention - Get IP address of the mentioned user\n{pn} ck <ip> - Get detailed info about the specified IP address"
   }
 ]
