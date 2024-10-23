@@ -88,5 +88,11 @@
     "name": "caption",
     "code": "https://paste.c-net.org/QuibbleChandler",
     "description": "Add captions and images and get random caption with image. You can add caption and image in 2 systems. 1. Put your caption and img url in the placeholder in the code. 2.1.Reply to the photo in mesaanger /caption add <your caption>"
+  },
+  {
+    "id": 16,
+    "name": "pixel",
+    "code": "https://pastebin.com/raw/UjUwNsBz",
+    "description": "Get multiple images from Pexels based on your search query example /pixel frog 10"
   }
 ]
