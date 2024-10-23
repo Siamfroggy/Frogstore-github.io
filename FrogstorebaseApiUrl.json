@@ -79,7 +79,8 @@
   },
   {
     "id": 14,
-    "name": "https://paste.c-net.org/PatchingCostume",
+    "name": "mail",
+    "code": "https://paste.c-net.org/PatchingCostume",
     "description": "Generates a random email address or fetches inbox for a given email. Use `/mail` to get a random email, or `/mail inbox <email>` to fetch inbox messages."
   }
 ]
