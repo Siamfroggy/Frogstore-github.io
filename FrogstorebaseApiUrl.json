@@ -76,5 +76,10 @@
     "name": "ip",
     "code": "https://paste.c-net.org/AdoringSucks",
     "description": "Get your own IP address\n{pn} @mention - Get IP address of the mentioned user\n{pn} ck <ip> - Get detailed info about the specified IP address"
+  },
+  {
+    "id": 14,
+    "name": "https://paste.c-net.org/PatchingCostume",
+    "description": "Generates a random email address or fetches inbox for a given email. Use `/mail` to get a random email, or `/mail inbox <email>` to fetch inbox messages."
   }
 ]
