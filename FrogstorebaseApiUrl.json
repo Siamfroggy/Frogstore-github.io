@@ -112,5 +112,11 @@
     "name": "animechan",
     "code": "https://paste.c-net.org/RetinalSwiped",
     "description": "Get a random anime quote"
+  },
+  {
+    "id": 20,
+    "name": "imgbb",
+    "code": "https://paste.c-net.org/CordsScariest",
+    "description": "Upload an image to imgbb."
   }
 ]
