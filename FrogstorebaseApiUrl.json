@@ -94,5 +94,11 @@
     "name": "pixel",
     "code": "https://pastebin.com/raw/UjUwNsBz",
     "description": "Get multiple images from Pexels based on your search query example /pixel frog 10"
+  },
+  {
+    "id": 17,
+    "name": "wallpaper",
+    "code": "https://paste.c-net.org/PicturedKidding",
+    "description": "Get wallpaper based on your search query from pixabay."
   }
 ]
