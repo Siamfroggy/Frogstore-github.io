@@ -118,5 +118,11 @@
     "name": "imgbb",
     "code": "https://paste.c-net.org/CordsScariest",
     "description": "Upload an image to imgbb."
+  },
+  {
+    "id": 21,
+    "name": "host",
+    "code": "https://paste.c-net.org/TokyoWonders",
+    "description": "Upload an image to Image hosting."
   }
 ]
