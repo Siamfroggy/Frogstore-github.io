@@ -100,5 +100,11 @@
     "name": "wallpaper",
     "code": "https://paste.c-net.org/PicturedKidding",
     "description": "Get wallpaper based on your search query from pixabay."
+  },
+  {
+    "id": 18,
+    "name": "urlshortner",
+    "code": "https://paste.c-net.org/WestsideGrate",
+    "description": "Shorten URLs quickly using urlshortner."
   }
 ]
