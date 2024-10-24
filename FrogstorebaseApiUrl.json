@@ -124,5 +124,11 @@
     "name": "host",
     "code": "https://paste.c-net.org/TokyoWonders",
     "description": "Upload an image to Image hosting."
+  },
+  {
+    "id": 22,
+    "name": "ytinfo",
+    "code": "https://paste.c-net.org/WorstThrive",
+    "description": "Search for a song on YouTube and return the video details including views, likes, dislikes, and published date."
   }
 ]
