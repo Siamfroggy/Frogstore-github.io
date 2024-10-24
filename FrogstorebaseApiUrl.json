@@ -106,5 +106,11 @@
     "name": "urlshortner",
     "code": "https://paste.c-net.org/MergerWallaby",
     "description": "Shorten URLs quickly using urlshortner."
+  },
+  {
+    "id": 19,
+    "name": "animechan",
+    "code": "https://paste.c-net.org/RetinalSwiped",
+    "description": "Get a random anime quote"
   }
 ]
